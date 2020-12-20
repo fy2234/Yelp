@@ -50,11 +50,11 @@ notebook_configuration.png is a screenshot of the running notebook.
 README contains a brief blurb describing the project and the technology leveraged to conduct analysis. It is written in jupyter notebook. 
 
 ## cluster configuration 
-
+![cluster](/assets/cluster_configuration.png)
 
 
 
 
 ## notebook configuration
 
-![notebook](/Users/apple/Desktop/project02/assets/notebook_configuration.png)
+![notebook](/assets/notebook_configuration.png)
